@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "password": "p@$$w0rd",
+      "username": "test_1",
+      "first_name": "Ivan",
+      "last_name": "Ivanov",
+      "email": "test_1@example.local",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true
+    },
+    {
+      "password": "p@$$w0rd",
+      "username": "test_2",
+      "first_name": "Peter",
+      "last_name": "Petrov",
+      "email": "test_2@example.local",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true
+    },
+    {
+      "password": "p@$$w0rd",
+      "username": "test_3",
+      "first_name": "Sidor ",
+      "last_name": "Sidorov",
+      "email": "test_3@example.local",
+      "is_superuser": false,
+      "is_staff": false,
+      "is_active": true
+    }
+  ]
+}
